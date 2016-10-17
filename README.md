@@ -17,7 +17,7 @@
 * Main(Shared)
 
 ##Reminder
-You need to configure your database, otherwise there will be no data. <br>
+You need to configure your database to have data. <br>
 Please contact <xinyao130315@gmail.com> if any question.
 
 
